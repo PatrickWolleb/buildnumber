@@ -1,1 +1,1 @@
-web: ./buildnumber -port 
+web: ./bin/buildnumber -port 
